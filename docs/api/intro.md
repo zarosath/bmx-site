@@ -4,8 +4,7 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
-The BlitzMax APIs are a collection of core modules designed to help you build
-your next, great BlitzMax application.
+The BlitzMax APIs are a collection of core modules designed to help you build a great BlitzMax application.
 
 They include Modules for things such as image loading, audio handling,
 fast 2D graphics, lua integration, threading, and window-based user interfaces.
